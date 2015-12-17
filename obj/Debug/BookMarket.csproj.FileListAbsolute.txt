@@ -1,0 +1,336 @@
+C:\Programs\C#\BookMarket\BookMarket\bin\Antlr3.Runtime.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\CodeFirstStoreFunctions.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.AspNet.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.Core.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\EntityFramework.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\EntityFramework.SqlServer.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.Data.Edm.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.Data.OData.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Newtonsoft.Json.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Net.Http.Formatting.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Spatial.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Helpers.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Http.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Http.OData.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Http.WebHost.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Mvc.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Optimization.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Razor.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.WebPages.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.WebPages.Razor.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\WebGrease.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\WebMatrix.Data.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\WebMatrix.WebData.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\EntityFramework.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\EntityFramework.SqlServer.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\Newtonsoft.Json.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Net.Http.Formatting.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Helpers.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Http.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Http.WebHost.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Mvc.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Razor.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.WebPages.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.WebPages.Razor.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\WebMatrix.Data.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\WebMatrix.WebData.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.AspNet.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.Core.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Web.Http.OData.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.Data.Edm.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.Data.OData.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\System.Spatial.xml
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\EntityFramework.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.Helpers.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.Http.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.Mvc.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.Optimization.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.Razor.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.WebPages.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\WebMatrix.Data.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\WebMatrix.WebData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Web.Http.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\de\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\es\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\it\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\de\System.Spatial.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\es\System.Spatial.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\fr\System.Spatial.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\it\System.Spatial.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ja\System.Spatial.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ko\System.Spatial.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\System.Spatial.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\zh-Hans\System.Spatial.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\zh-Hant\System.Spatial.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\obj\Debug\BookMarket.dll
+C:\Programs\C#\BookMarket\BookMarket\obj\Debug\BookMarket.pdb
+C:\Programs\C#\BookMarket\BookMarket\bin\BookMarket.dll.config
+C:\Programs\C#\BookMarket\BookMarket\bin\BookMarket.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\BookMarket.pdb
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.SqlServer.Smo.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.SqlServer.SqlEnum.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.SqlServer.Dmf.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\Microsoft.SqlServer.Management.Sdk.Sfc.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\bin\ru\Microsoft.SqlServer.Dmf.resources.dll
+C:\Programs\C#\BookMarket\BookMarket\obj\Debug\BookMarket.csprojResolveAssemblyReference.cache
+C:\Programs\C#\BookMarket\BookMarket\bin\App_Data\BookMarketDb.mdf
+C:\Programs\C#\BookMarket\BookMarket\bin\App_Data\BookMarketDb_log.ldf
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\BookMarket.dll.config
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\BookMarket.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\BookMarket.pdb
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Antlr3.Runtime.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\CodeFirstStoreFunctions.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.AspNet.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.Core.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\EntityFramework.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\EntityFramework.SqlServer.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.Data.Edm.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.Data.OData.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.SqlServer.Smo.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Newtonsoft.Json.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Net.Http.Formatting.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Spatial.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Helpers.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Http.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Http.OData.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Http.WebHost.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Mvc.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Optimization.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Razor.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.WebPages.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.WebPages.Razor.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\WebGrease.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\WebMatrix.Data.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\WebMatrix.WebData.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.SqlServer.SqlEnum.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\EntityFramework.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\EntityFramework.SqlServer.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Newtonsoft.Json.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Net.Http.Formatting.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Helpers.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Http.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Http.WebHost.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Mvc.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Razor.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.WebPages.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.WebPages.Razor.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\WebMatrix.Data.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\WebMatrix.WebData.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.AspNet.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.Core.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Web.Http.OData.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.Data.Edm.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.Data.OData.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\System.Spatial.xml
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\EntityFramework.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.Helpers.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.Http.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.Mvc.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.Optimization.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.Razor.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.WebPages.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\WebMatrix.Data.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\WebMatrix.WebData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Web.Http.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\de\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\es\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\it\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\de\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\es\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\fr\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\it\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ja\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ko\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\ru\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\zh-Hans\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\zh-Hant\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\obj\Debug\BookMarket.dll
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\obj\Debug\BookMarket.pdb
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\BookMarket.dll.config
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\BookMarket.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\BookMarket.pdb
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Antlr3.Runtime.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\CodeFirstStoreFunctions.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.AspNet.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.Core.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\EntityFramework.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\EntityFramework.SqlServer.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.Data.Edm.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.Data.OData.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.SqlServer.Smo.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.Web.Infrastructure.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Newtonsoft.Json.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Net.Http.Formatting.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Spatial.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Helpers.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Http.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Http.OData.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Http.WebHost.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Mvc.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Optimization.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Razor.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.WebPages.Deployment.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.WebPages.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.WebPages.Razor.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\WebGrease.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\WebMatrix.Data.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\WebMatrix.WebData.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.SqlServer.SqlEnum.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.SqlServer.Dmf.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\EntityFramework.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\EntityFramework.SqlServer.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Newtonsoft.Json.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Net.Http.Formatting.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Helpers.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Http.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Http.WebHost.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Mvc.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Razor.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.WebPages.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.WebPages.Deployment.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.WebPages.Razor.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\WebMatrix.Data.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\WebMatrix.WebData.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.AspNet.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.Core.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.OAuth.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Web.Http.OData.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.Data.Edm.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\Microsoft.Data.OData.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\System.Spatial.xml
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\EntityFramework.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.Helpers.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.Http.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.Mvc.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.Optimization.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.Razor.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.WebPages.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\WebMatrix.Data.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\WebMatrix.WebData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Web.Http.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\de\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\es\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\it\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\de\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\es\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\fr\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\it\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ja\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ko\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\ru\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\zh-Hans\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\bin\zh-Hant\System.Spatial.resources.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\obj\Debug\BookMarket.csprojResolveAssemblyReference.cache
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\obj\Debug\BookMarket.dll
+C:\Programs\C#\Учебные\ASP.NET\BookMarket\BookMarket\obj\Debug\BookMarket.pdb
+C:\Programs\C#\Учебные\ASP NET MVC\BookMarket\BookMarket\bin\Microsoft.SqlServer.Dmf.dll

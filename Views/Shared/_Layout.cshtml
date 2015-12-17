@@ -1,0 +1,94 @@
+﻿@using BookMarket.Services
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title — приложение ASP.NET MVC</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <link href="~/Content/themes/base/all.css" rel="stylesheet" type="text/css" />
+        <link href="~/Content/bootstrap.css" rel="stylesheet" type="text/css" />
+        <script src="~/scripts/jquery-2.1.4.min.js"></script>
+        <script src="~/scripts/jquery-ui-1.11.4.min.js"></script>
+        <script src="~/scripts/bootstrap.min.js"></script>
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title">@Html.ActionLink("магазин книг", "Index", "Product")</p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    @Html.Partial("_LoginPartial")
+                </section>
+                <nav>
+                    <ul id="menu">
+                        <li>@Html.ActionLink("Катало книг", "Index", "Product")</li>
+                        <li>@Html.ActionLink("Корзина", "Index", "Basket")</li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+                <div id="body">
+                    <table>
+                        <tr>
+                            <td style="width: 80%">
+                                @RenderSection("featured", required: false)
+                                <section class="content-wrapper main-content clear-fix">
+                                    @RenderBody()
+                                </section>
+                            </td>
+                            <td valign="top">
+                                <ul >
+                                    <li><b>Языки программирования</b></li>
+                                    <ul>
+                                        <li>@Html.ActionLink("C#", "CatalogView", "Product", new { bookTagId = BookTagService.C_DIES.Id }, null)</li>
+                                        <li>@Html.ActionLink("F#", "CatalogView", "Product", new { bookTagId = BookTagService.F_DIES.Id }, null)</li>
+                                        <li>@Html.ActionLink("Haskell", "CatalogView", "Product", new { bookTagId = BookTagService.HASKELL.Id }, null)</li>
+                                        <li>@Html.ActionLink("Java", "CatalogView", "Product", new { bookTagId = BookTagService.JAVA.Id }, null)</li>
+                                        <li>@Html.ActionLink("Python", "CatalogView", "Product", new { bookTagId = BookTagService.PYTHON.Id }, null)</li>
+                                    </ul>
+                                    <li><b>Веб-программирование</b></li>
+                                    <ul>
+                                        <li>@Html.ActionLink("Ajax", "CatalogView", "Product", new { bookTagId = BookTagService.AJAX.Id }, null)</li>
+                                        <li>@Html.ActionLink("ASP(.NET)", "CatalogView", "Product", new { bookTagId = BookTagService.ASP_NET.Id }, null)</li>
+                                        <li>@Html.ActionLink("Javascript", "CatalogView", "Product", new { bookTagId = BookTagService.JAVASCRIPT.Id }, null)</li>
+                                        <li>@Html.ActionLink("PHP", "CatalogView", "Product", new { bookTagId = BookTagService.PHP.Id }, null)</li>
+                                        <li>@Html.ActionLink("Silverlight", "CatalogView", "Product", new { bookTagId = BookTagService.SILVERLIGHT.Id }, null)</li>
+                                    </ul>
+                                    <li><b>Программирование мобильных устройств</b></li>
+                                    <ul>
+                                        <li>@Html.ActionLink("Andoid", "CatalogView", "Product", new { bookTagId = BookTagService.ANDROID.Id }, null)</li>
+                                        <li>@Html.ActionLink("Iphone", "CatalogView", "Product", new { bookTagId = BookTagService.IPHONE.Id }, null)</li>
+                                        <li>@Html.ActionLink("Windows Phone", "CatalogView", "Product", new { bookTagId = BookTagService.WINDOWS_PHONE.Id }, null)</li>
+                                    </ul>
+                                    <li><b>Базы данных</b></li>
+                                    <ul>
+                                        <li>@Html.ActionLink("Общее", "CatalogView", "Product", new { bookTagId = BookTagService.COMMON_DB.Id }, null)</li>
+                                        <li>@Html.ActionLink("MySQL", "CatalogView", "Product", new { bookTagId = BookTagService.MYSQL.Id }, null)</li>
+                                        <li>@Html.ActionLink("Microsoft SQL Server", "CatalogView", "Product", new { bookTagId = BookTagService.MICROSOFT_SQL_SERVER.Id }, null)</li>
+                                        <li>@Html.ActionLink("Oracle Database", "CatalogView", "Product", new { bookTagId = BookTagService.ORACLE_DB.Id }, null)</li>
+                                        <li>@Html.ActionLink("PostgreSQL", "CatalogView", "Product", new { bookTagId = BookTagService.POSTGRE_SQL.Id }, null)</li>
+                                    </ul>
+                                </ul>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; @DateTime.Now.Year — приложение ASP.NET MVC</p>
+                </div>
+            </div>
+        </footer>
+
+        @Scripts.Render("~/bundles/jquery")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

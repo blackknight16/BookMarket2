@@ -1,0 +1,66 @@
+﻿@using BookMarket.Models
+@using BookMarket.Models.ViewModels
+@model BookSummary
+
+@{
+    ViewBag.Title = "Добавление книги";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Добавление книги</h2>
+<div>
+@Html.ValidationSummary()
+    <form action="@Url.Action("AddBook")" method="POST">
+        <fieldset>
+            <div>
+                @Html.LabelFor(x => x.Name)
+                @Html.TextBoxFor(x => x.Name, new { required = true })
+            </div>
+            <div>
+                @Html.LabelFor(x => x.Year)
+                @Html.TextBoxFor(x => x.Year, new { required = true })
+            </div>
+            <div>
+                @Html.LabelFor(x => x.PageCount)
+                @Html.TextBoxFor(x => x.PageCount, new { required = true })
+            </div>
+            <div>
+                @Html.LabelFor(x => x.FullDescription)
+                @Html.TextAreaFor(x => x.FullDescription, new { required = true })
+            </div>
+            <div>
+                <p>Введите фамилию и имя (необязательно) каждого автора, разделяя каждого ",". Например: "Стиллмен Э., Грин Дж."</p>
+                @Html.LabelFor(x => x.Authors)
+                @Html.TextBoxFor(x => x.Authors, new { required = true })
+            </div>
+            <div>
+                @Html.LabelFor(x => x.Language.Id)
+                @Html.DropDownListFor(x => x.Language.Id, 
+                (IEnumerable<SelectListItem>)ViewData["languageNames"],
+                new { required = true })
+            </div>
+            <div>
+                <p>Введите название каждого издателя через ",". Например: "АСТ, Мир"</p>
+                @Html.LabelFor(x => x.Publishers)
+                @Html.TextBoxFor(x => x.Publishers, new { required = true })
+            </div>
+            <div>
+                @Html.LabelFor(x => x.ProductCount)
+                @Html.TextBoxFor(x => x.ProductCount)
+            </div>
+            <div>
+                @Html.LabelFor(x => x.Price)
+                @Html.TextBoxFor(x => x.Price)
+            </div>
+            <div>
+                @Html.LabelFor(x => x.BookTagSelectListItems)
+                @Html.ListBoxFor(x => x.BookTagSelectListItems, 
+                (IEnumerable<SelectListItem>)ViewData["bookTagNames"],
+                new { required = true })
+            </div>
+            <div>
+                <input type="submit" value="Сохранить"/>
+            </div>
+        </fieldset>
+    </form>
+</div>

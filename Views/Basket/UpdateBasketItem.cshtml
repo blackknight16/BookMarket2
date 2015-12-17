@@ -1,0 +1,34 @@
+﻿@using BookMarket.Models
+@using BookMarket.Models.ViewModels
+@model BasketItemView
+
+@{
+    ViewBag.Title = "Обновление заказа";
+}
+
+@{
+    BookVariableInfo varInfo = Model.BookVariableInfo;
+    Book buyingBook = Model.Book;
+}
+
+<h2>Обновление заказа @buyingBook.Name</h2>
+<div>
+@Html.ValidationSummary()
+    <form action="@Url.Action("UpdateBasketItem")" method="POST">
+        <fieldset>
+            <div>
+                @Html.HiddenFor(x => x.Id)
+                @Html.HiddenFor(x => x.BookVariableInfoId)
+                @Html.HiddenFor(x => x.BasketId)
+
+                @Html.LabelFor(x => x.ItemCount)
+                @Html.TextBoxFor(x => x.ItemCount, new {value = Model.ItemCount})
+            </div>
+            <div>По цене за экземпляр: @varInfo.Price руб.</div>
+            <div>Всего @varInfo.ProductCount экземпляров на складе</div>
+            <div>
+                <input type="submit" value="Обновить заказ"/>
+            </div>
+        </fieldset>
+    </form>
+</div>

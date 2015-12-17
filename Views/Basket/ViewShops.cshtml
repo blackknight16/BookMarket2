@@ -1,0 +1,44 @@
+﻿@using BookMarket.Models
+@using BookMarket.Models.ViewModels
+@model IEnumerable<ShopView>
+
+@{
+    ViewBag.Title = "Выбор магазина";
+}
+<h2>Выбор магазина</h2>
+<p>Пожалуйста, выберите город доставки:</p>
+@Html.Partial("_SearchCity", new Address())
+
+@if (ViewData["cityShopNames"] != null)
+{
+    <p>Затем, магазин в который будет достален заказ в ближайшее время</p>
+    @Html.Partial("_SearchShop", new Shop())
+}
+
+<table>
+    <tr>
+        <th>№</th>
+        <th>Магазин</th>
+        <th>Город</th>
+        <th>Улица</th>
+        <th>№ дома</th>
+        <th>Доставка, руб.</th>
+    </tr>
+    @foreach (ShopView shopView in Model)
+    {
+        Address address = shopView.Address;
+        City city = shopView.City;
+        Street street = shopView.Street;
+        StreetType streetType = shopView.StreetType;
+        <tr>
+            <td>@shopView.Id</td>
+            <td>@shopView.Name</td>
+            <td>@city.Name</td>
+            <td>
+                <span>@streetType.Name</span> <span>@street.Name</span
+            </td>
+            <td>@address.House</td>
+            <td>@shopView.BookDeliveryCost</td>
+        </tr>
+    }
+</table>

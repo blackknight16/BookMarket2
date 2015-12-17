@@ -1,0 +1,32 @@
+﻿@using BookMarket.Models
+@using BookMarket.Models.ViewModels
+@model BasketView
+
+@{
+    ViewBag.Title = "Корзина";
+}
+
+<h2>Корзина</h2>
+<table>
+    <tr>
+    <th>Название</th>
+    <th>Количество</th>
+    <th>Рассчетная стоимость</th>
+        </tr>
+    @foreach (BasketItemView item in Model.BasketItemViews)
+    {
+        BookVariableInfo bookVariableInfo = @item.BookVariableInfo;
+        Book book = item.Book;
+
+        <tr>
+            <td>@book.Name</td>
+            <td>@item.ItemCount</td>
+            <td>@item.Amount</td>
+            <td>@Html.ActionLink("Изменить", "UpdateBasketItem", new {basketItemId = item.Id})</td>
+            <td>@Html.ActionLink("Удалить", "DeleteBasketItem", new {basketItemId = item.Id})</td>
+        </tr>
+    }
+</table>
+<br/>
+<div>Общая сумма: @Model.TotalAmount</div>
+<div>@Html.ActionLink("Оплатить", "ViewShops")</div>

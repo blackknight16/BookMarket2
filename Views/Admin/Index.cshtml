@@ -1,0 +1,39 @@
+﻿@using BookMarket.Models
+@using BookMarket.Models.ViewModels
+@model IList<BookSummary>
+
+@{
+    ViewBag.Title = "Админка";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Админка</h2>
+<table style="border: 4px solid black;">
+    <tr>
+        <th>Название</th>
+        <th>Год</th>
+        <th>Язык</th>
+        <th>Издатели</th>
+        <th>Экземпляров</th>
+        <th>Цена</th>
+        <th>Теги</th>
+        <th>Изображение</th>
+        <th>Действие</th>
+    </tr>
+@foreach (BookSummary element in Model)
+{
+    <tr style="border: 4px solid black;">
+        <td>@element.Name</td>
+        <td>@element.Year</td>
+        <td>@element.Language.Name</td>
+        <td>@element.Publishers</td>
+        <td>@element.ProductCount</td>
+        <td>@element.Price</td>
+        <td>@element.BookTagOne</td>
+        <td>@element.ImageName</td>
+        <td>
+            <span class="btn btn-default">Изменить</span> <span class="btn btn-default">Удалить</span>
+        </td>
+    </tr>
+}
+    </table>

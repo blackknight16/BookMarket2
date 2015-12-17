@@ -1,0 +1,22 @@
+﻿@using BookMarket.Models
+@model Shop
+
+@if (ViewData["cityShopNames"] != null)
+{
+    <div>
+        @Html.ValidationSummary()
+        <form action="@Url.Action("_SearchShop")" method="POST">
+            <fieldset>
+                <div>
+                    @Html.LabelFor(x => x.Id)
+                    @Html.DropDownListFor(x => x.Id,
+                        (IEnumerable<SelectListItem>) ViewData["cityShopNames"],
+                        new {required = true})
+                </div>
+                <div>
+                    <input type="submit" value="Выбрать"/>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+}

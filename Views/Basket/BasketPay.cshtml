@@ -1,0 +1,32 @@
+﻿@using BookMarket.Models.ViewModels
+@using BookMarket.Services
+@model W1PaymentView
+
+@{
+    ViewBag.Title = "Платежная форма";
+}
+<header>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</header>
+
+<h2>Платежная форма</h2>
+<div>
+    <div>Нажатие кнопки передаст данные странице оплаты заказа.</div>
+    <br />
+    <div>Обязательно нажмите на кнопку "Вернуться в магазин" на последней странице оплаты, чтобы магазин смог зафиксировать покупку.</div>
+    <!--<form action="https://wl.walletone.com/checkout/checkout/Index?i=3458542166120&m=135359380957" method="POST">-->
+    <form action="https://wl.walletone.com/checkout/checkout/Index" method="POST">
+        <fieldset>
+                @Html.HiddenFor(x => x.WMI_MERCHANT_ID, new{value = Model.WMI_MERCHANT_ID,  @readonly="readonly"})
+                @Html.HiddenFor(x => x.WMI_PAYMENT_AMOUNT, new{value = Model.WMI_PAYMENT_AMOUNT,  @readonly="readonly"} )
+                @Html.HiddenFor(x => x.WMI_CURRENCY_ID, new{value = Model.WMI_CURRENCY_ID,  @readonly="readonly"} )
+                @Html.HiddenFor(x => x.WMI_DESCRIPTION, new{value = Model.WMI_DESCRIPTION,  @readonly="readonly"} )
+                @Html.HiddenFor(x => x.WMI_PAYMENT_NO, new{value = Model.WMI_PAYMENT_NO,  @readonly="readonly"} )
+                @Html.HiddenFor(x => x.WMI_EXPIRED_DATE, new{value = Model.WMI_EXPIRED_DATE, @readonly="readonly"} )
+                @Html.HiddenFor(x => x.WMI_SIGNATURE, new{ value = Model.WMI_SIGNATURE, @readonly="readonly"} )
+                @Html.HiddenFor(x => x.WMI_SUCCESS_URL, new{ value = Model.WMI_SUCCESS_URL, @readonly="readonly"} )
+                @Html.HiddenFor(x => x.WMI_FAIL_URL, new{ value = Model.WMI_FAIL_URL, @readonly="readonly"} )
+                <input type="submit"  />
+        </fieldset>
+    </form>
+</div>

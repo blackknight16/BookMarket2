@@ -1,0 +1,29 @@
+﻿@using BookMarket.Models
+@using BookMarket.Models.ViewModels
+@using BookMarket.Models.ViewHelpers
+@model IndexViewModel 
+
+@{
+    ViewBag.Title = "Каталог";
+}
+
+<table style="border: 4px solid black;">
+@foreach (BookView element in Model.BookViews)
+{
+    <tr style="border: 4px solid black;">
+        <th colspan="2">@Html.ActionLink(element.Name, "ProductDetail", new {id = element.Id})</th>
+    </tr>
+    <tr>
+        <td>@element.ShortDescription</td>
+        <td colspan="2">
+            <img src="@Url.Content("~/Images/BookCover/" + @element.ImageName)"/>
+        </td>
+    </tr>
+}
+</table>
+
+<br />
+<div class="btn-group">
+    @Html.PageLinks(Model.PageInfo, 
+        x => Url.Action("CatalogView", new{bookTagId = Model.BookTagId, page = x}))
+</div>

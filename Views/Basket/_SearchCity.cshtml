@@ -1,0 +1,17 @@
+﻿@using BookMarket.Models
+@model Address
+
+<div>
+    <form action="@Url.Action("_SearchCity")" method="POST">
+        <fieldset>
+            <div>
+                @Html.LabelFor(x => x.CityId)
+                @Html.DropDownListFor(x => x.CityId,
+                (IEnumerable<SelectListItem>)ViewData["cityNames"] )
+            </div>
+            <div>
+                <input type="submit" value="Выбрать"/>
+            </div>
+        </fieldset>
+    </form>
+</div>

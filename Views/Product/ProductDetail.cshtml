@@ -1,0 +1,59 @@
+﻿@using BookMarket.Models
+@using BookMarket.Models.ViewModels
+@model BookView
+
+@{
+    ViewBag.Title = "ProductDetail";
+}
+
+<h2><b>@Model.Name</b></h2>
+    <table>
+        <tr>
+            <td>
+                <table>
+                <tr>
+                    <td>Авторы:</td>
+                    <td>@Model.Authors</td>
+                </tr>
+                <tr>
+                    <td>Язык:</td>
+                    <td>@Model.Language.Name</td>
+                </tr>
+                <tr>
+                    <td>Количество страниц:</td>
+                    <td>@Model.PageCount</td>
+                </tr>
+                    <tr>
+                        <td>Издатели:</td>
+                        <td>@Model.Publishers</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" >
+                            <div style="color: red; font-size: 14px;"><b>
+                                @Html.ActionLink("Купить", "BuyBook", "Basket", 
+                                new{ bookId = Model.Id}, null)
+                            </b></div>
+                        </td>
+                    </tr>
+    </table>
+            </td>
+
+            <td>
+                <img src="@Url.Content("~/Images/BookCover/" + @Model.ImageName)"/>
+            </td>
+        </tr>
+    <br/>
+    <table>
+        <tr>
+            <td colspan="2">@Html.Raw(Model.FullDescription)</td>
+        </tr>
+        <tr>
+            <td>Теги:</td>
+            <td>
+                @foreach (BookTagView tag in Model.BookTags)
+                {
+                    <span>@Html.ActionLink(tag.HumanName, "CatalogView", new { bookTagId = tag.Id } ), </span>
+                }
+            </td>
+        </tr>
+    </table>

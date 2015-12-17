@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title — приложение ASP.NET MVC</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <link href="~/Content/themes/base/all.css" rel="stylesheet" type="text/css" />
+        <link href="~/Content/bootstrap.css" rel="stylesheet" type="text/css" />
+        <script src="~/scripts/jquery-2.1.4.min.js"></script>
+        <script src="~/scripts/jquery-ui-1.11.4.min.js"></script>
+        <script src="~/scripts/bootstrap.min.js"></script>
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title">@Html.ActionLink("магазин книг", "Index", "Product")</p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    @Html.Partial("_LoginPartial")
+                </section>
+                <nav>
+                    <ul id="menu">
+                        <li>@Html.ActionLink("Домашняя страница", "Index", "Admin")</li>
+                        <li>@Html.ActionLink("Добавить книгу", "AddBook", "Admin")</li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+        <div id="body">
+            @RenderSection("featured", required: false)
+            <section class="content-wrapper main-content clear-fix">
+                @RenderBody()
+            </section>
+        </div>
+        <footer>
+            <div class="content-wrapper">
+                <div class="float-left">
+                    <p>&copy; @DateTime.Now.Year — приложение ASP.NET MVC</p>
+                </div>
+            </div>
+        </footer>
+
+        @Scripts.Render("~/bundles/jquery")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

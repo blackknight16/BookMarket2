@@ -1,0 +1,31 @@
+﻿@using BookMarket.Models
+@using BookMarket.Models.ViewModels
+@model BasketItemView
+@{
+    ViewBag.Title = "Покупка";
+}
+
+@{
+    BookVariableInfo varInfo = Model.BookVariableInfo;
+    Book buyingBook = Model.Book;
+}
+<h2>Покупка @buyingBook.Name</h2>
+@Html.ValidationSummary()
+<form action="@Url.Action("BuyBook")" method="POST">
+    <fieldset>
+        <div>
+                @Html.HiddenFor(x => x.Id)
+            @Html.HiddenFor(x => x.BookVariableInfoId)
+                @Html.HiddenFor(x => x.BasketId)
+
+            @Html.LabelFor(x => x.ItemCount)
+            @Html.TextBoxFor(x => x.ItemCount)
+        </div>
+        <div>По цене за экземпляр: @varInfo.Price руб.</div>
+        <div>Всего @varInfo.ProductCount экземпляров на складе</div>
+        <div>
+            <input type="submit" value="Добавить в корзину"/>
+        </div>
+    </fieldset>
+</form>
+
